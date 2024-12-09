@@ -1,0 +1,4 @@
+C:\Users\shriya\source\repos\netcentric\obj\Debug\net8.0\netcentric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shriya\source\repos\netcentric\obj\Debug\net8.0\netcentric.AssemblyInfoInputs.cache
+C:\Users\shriya\source\repos\netcentric\obj\Debug\net8.0\netcentric.AssemblyInfo.cs
+C:\Users\shriya\source\repos\netcentric\obj\Debug\net8.0\netcentric.csproj.CoreCompileInputs.cache
